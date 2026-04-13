@@ -1,0 +1,85 @@
+[{
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\21_PrintFileContentInReverse\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\21_PrintFileContentInReverse",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\21_PrintFileContentInReverse\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\21_PrintFileContentInReverse\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\16_DynamicMem\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\16_DynamicMem",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\16_DynamicMem\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\16_DynamicMem\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\14_PointersAsParameters\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\14_PointersAsParameters",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\14_PointersAsParameters\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\14_PointersAsParameters\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\13_PointerBasics\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\13_PointerBasics",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\13_PointerBasics\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\13_PointerBasics\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\20_ConvertToUppercase\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\20_ConvertToUppercase",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\20_ConvertToUppercase\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\20_ConvertToUppercase\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\11_String_Length_Concat_Equal\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\11_String_Length_Concat_Equal",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\11_String_Length_Concat_Equal\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\11_String_Length_Concat_Equal\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\18_StructPointerFunction\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\18_StructPointerFunction",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\18_StructPointerFunction\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\18_StructPointerFunction\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\09_Gcd_Sqrt_Abs_WithFunctions\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\09_Gcd_Sqrt_Abs_WithFunctions",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\09_Gcd_Sqrt_Abs_WithFunctions\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\09_Gcd_Sqrt_Abs_WithFunctions\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\01_Enums\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\01_Enums",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\01_Enums\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\01_Enums\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\08_WeatherWithMultiArray\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\08_WeatherWithMultiArray",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\08_WeatherWithMultiArray\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\08_WeatherWithMultiArray\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\17_DeclareAndInitStruct\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\17_DeclareAndInitStruct",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\17_DeclareAndInitStruct\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\17_DeclareAndInitStruct\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\07_PrimeNumbers\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\07_PrimeNumbers",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\07_PrimeNumbers\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\07_PrimeNumbers\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\05_WeeklyPayment\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\05_WeeklyPayment",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\05_WeeklyPayment\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\05_WeeklyPayment\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\06_GuessTheNumber\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\06_GuessTheNumber",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\06_GuessTheNumber\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\06_GuessTheNumber\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\04_PrintByteSizes\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\04_PrintByteSizes",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\04_PrintByteSizes\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\04_PrintByteSizes\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\15_CountCharInStrings\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\15_CountCharInStrings",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\15_CountCharInStrings\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\15_CountCharInStrings\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\02_DataTypesAndVariables\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\02_DataTypesAndVariables",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\02_DataTypesAndVariables\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\02_DataTypesAndVariables\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\19_NumberOfLinesInFile\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\19_NumberOfLinesInFile",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\19_NumberOfLinesInFile\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\19_NumberOfLinesInFile\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\10_TicTacToe\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\10_TicTacToe",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\10_TicTacToe\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\10_TicTacToe\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\12_UtilizingCommonStringFunctions\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\12_UtilizingCommonStringFunctions",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\12_UtilizingCommonStringFunctions\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\12_UtilizingCommonStringFunctions\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\Robi\\Workspaces\\Workspace4\\03_MinutesToYears\\main.c",
+  "directory": "C:\\Users\\Robi\\Workspaces\\Workspace4\\03_MinutesToYears",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Robi\\Workspaces\\Workspace4\\03_MinutesToYears\\main.c -o C:\\Users\\Robi\\Workspaces\\Workspace4\\03_MinutesToYears\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]
